@@ -1,0 +1,24 @@
+body{
+  background-color: #ffe4c4;
+  }
+
+  h1{
+  color: red;
+  font-size: 125px;
+ }
+
+ /*
+ img{
+   background-color: red;
+ }
+*/
+
+/************************************CLASS SELECTORS*********************/
+
+.bubblegum {
+  background-color: green;
+}
+
+.candy {
+  background-color: red;
+}
